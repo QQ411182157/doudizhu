@@ -1,3 +1,5 @@
+三人斗地主，地主固定不能抢
+
 #### 安卓原生java语法，android studio开发，点击头像进主页看更多作品 下方有联系方式
 
  <img src='https://img.alicdn.com/imgextra/i2/1658540494/O1CN01piq2xO1FWIcAodXDI_!!1658540494.jpg' alt='a265.jpg' />
